@@ -1,0 +1,21 @@
+.box {
+    border: 2px solid red;
+    margin-bottom: 1rem;
+    width: 25rem;
+    height: 7rem;
+  }
+  .box1 {
+    background-color: aquamarine;
+    overflow: visible;
+  }
+  .box2 {
+    background-color: bisque;
+    overflow: scroll;
+  }
+  .box3 {
+    background-color: chartreuse;overflow: auto;
+  }
+  .box4 {
+    background-color: green;
+    overflow: hidden;
+  }
